@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Oct1
+#
+
+projectname: Oct1
+vendorid: com.vin
+mainmodule: com.vin.oct1
